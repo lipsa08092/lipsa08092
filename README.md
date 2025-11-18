@@ -36,7 +36,7 @@ Node.js • Express • MongoDB
 - Tools:
 Git • GitHub • VS Code • Postman
 
-## Goals for 2025
+## Goals
 - Build 10+ projects
 - Make a full MERN Stack app
 - Upload code regularly on GitHub
